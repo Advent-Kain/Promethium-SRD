@@ -9822,21 +9822,7 @@
         }
       ]
     },
-    {
-      "id": "chapter-seven-classes-part-two-heroic-classes-the-divine-apex",
-      "title": "Chapter Seven – Classes, Part Two: Heroic Classes — The Divine Apex",
-      "level": 1,
-      "blocks": [
-        {
-          "type": "p",
-          "html": "<em>The Priest stands alone among the Heroic classes. Where the others cultivate Aura, Mana, Edge, or the bound relationships of the spirit, the Priest cultivates a connection to a divine patron — and from that connection draws Grace, the radiant resource that replaces Mana entirely for those who walk the consecrated path. The Priest is the divine apex of the Heroic tier, the cultivator whose power is given by hand from above rather than built within.</em>"
-        },
-        {
-          "type": "p",
-          "html": "This single class concludes the Heroic class roster. Thirteen Heroic classes in total — four Aura, three Mana, two Edge, three Spirit, and the Priest standing distinct. The Priest is unique in that they may not hold Mana at all while walking their path; they have made the trade for Grace, and the trade is complete and singular."
-        }
-      ]
-    },
+  
     {
       "id": "priest",
       "title": "Priest",
