@@ -248,7 +248,24 @@
       "id": "introduction",
       "title": "Introduction",
       "level": 1,
-      "blocks": []
+      "blocks": [
+         {
+          "type": "p",
+          "html": "Promethium System Version 2.0"
+        }
+         {
+          "type": "p",
+          "html": "Below is the complete Systems Reference document for the Promethium System. Currently this resource is provided as a way for our backers, players, and community to reference and explore the promethium rules set. In the near future we hope to make the promethium rules open for third party creators to add and expand the Realms of Ouroboros. Please check back regularly, or subscribe to our newsletter to receive regular updates."
+        }
+         {
+          "type": "p",
+          "html": "Please do not copy or distribute."
+        }
+              {
+          "type": "p",
+          "html": "© Copyright 2026 Promethium Games LLC and Ashram Kain. All Rights Reserved."
+        } 
+      ]
     },
     {
       "id": "chapter-one-playing-the-game",
