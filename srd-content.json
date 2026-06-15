@@ -1,7 +1,7 @@
 {
   "title": "Promethium Core Rules SRD",
   "subtitle": "Promethium Games System Reference Document",
-  "sourceTitle": "Radiant Age Core Rules",
+  "sourceTitle": "Realms of Ouroboros Core Rules",
   "sourceSubtitle": "Heroic Fantasy Role-plying Game",
   "version": "2.0",
   "sections": [
@@ -249,22 +249,22 @@
       "title": "Introduction",
       "level": 1,
       "blocks": [
-         {
+        {
           "type": "p",
           "html": "Promethium System Version 2.0"
         },
-         {
+        {
           "type": "p",
           "html": "Below is the complete Systems Reference document for the Promethium System. Currently this resource is provided as a way for our backers, players, and community to reference and explore the promethium rules set. In the near future we hope to make the promethium rules open for third party creators to add and expand the Realms of Ouroboros. Please check back regularly, or subscribe to our newsletter to receive regular updates."
         },
-         {
+        {
           "type": "p",
           "html": "Please do not copy or distribute."
         },
-              {
+        {
           "type": "p",
           "html": "© Copyright 2026 Promethium Games LLC and Ashram Kain. All Rights Reserved."
-        } 
+        }
       ]
     },
     {
@@ -290,7 +290,7 @@
         },
         {
           "type": "p",
-          "html": "To play Radiant Age you need: this book, a set of polyhedral dice (one each of d4, d6, d8, d10, d12, d20, and ideally a d100), pencils, character sheets, and one to six friends willing to imagine the Realms of Ouroboros with you."
+          "html": "To play Realms of Ouroboros you need: this book, a set of polyhedral dice (one each of d4, d6, d8, d10, d12, d20, and ideally a d100), pencils, character sheets, and one to six friends willing to imagine the Realms of Ouroboros with you."
         },
         {
           "type": "h3",
@@ -322,7 +322,7 @@
         },
         {
           "type": "p",
-          "html": "Radiant Age uses a set of polyhedral dice: d4, d6, d8, d10, d12, d20, and occasionally d100. Each player and the GM should have at least one full set, though having multiple sets of each is helpful — Action Rolls use 1d20, and most situations involve adding multiple Bonus Dice in varying sizes. You will roll often. Pick dice that feel good in your hand; you will be living with them for a long time."
+          "html": "Realms of Ouroboros uses a set of polyhedral dice: d4, d6, d8, d10, d12, d20, and occasionally d100. Each player and the GM should have at least one full set, though having multiple sets of each is helpful — Action Rolls use 1d20, and most situations involve adding multiple Bonus Dice in varying sizes. You will roll often. Pick dice that feel good in your hand; you will be living with them for a long time."
         },
         {
           "type": "h4",
@@ -374,7 +374,7 @@
         },
         {
           "type": "p",
-          "html": "A session of Radiant Age moves in cycles between three modes. In Exploration, the party traverses the world — through cities, sects, wilderness, and stranger places — gathering information, seeking opportunities, and answering the questions the GM raises. In Interaction, the party engages with NPCs through conversation, negotiation, persuasion, and intrigue, often the most important work a cultivator does. In Combat, the party faces direct conflict — bandits, beasts, rival cultivators, eldritch incursions — and dice resolve the contest in structured turns and rounds."
+          "html": "A session of Realms of Ouroboros moves in cycles between three modes. In Exploration, the party traverses the world — through cities, sects, wilderness, and stranger places — gathering information, seeking opportunities, and answering the questions the GM raises. In Interaction, the party engages with NPCs through conversation, negotiation, persuasion, and intrigue, often the most important work a cultivator does. In Combat, the party faces direct conflict — bandits, beasts, rival cultivators, eldritch incursions — and dice resolve the contest in structured turns and rounds."
         },
         {
           "type": "p",
@@ -386,7 +386,7 @@
         },
         {
           "type": "p",
-          "html": "Radiant Age is built on four cardinal rules — the pillars that hold every session together. These are not optional, and they are not negotiable. When in doubt, return to them; they will help you find your way."
+          "html": "Realms of Ouroboros is built on four cardinal rules — the pillars that hold every session together. These are not optional, and they are not negotiable. When in doubt, return to them; they will help you find your way."
         },
         {
           "type": "p",
@@ -866,7 +866,7 @@
         },
         {
           "type": "p",
-          "html": "Falling from a dangerous height or having something large and heavy fall on you can cause serious damage. At the end of a fall, a creature takes a dice of bludgeoning damage for every 10 feet it fell, based on its size. The creature lands prone unless it avoids taking damage from the fall. When an object falls on a creature (or another object), both take this damage."
+          "html": "Falling from a dangerous height or having something large and heavy fall on you can cause serious damage. At the end of a fall, a creature takes a dice of Impact damage for every 10 feet it fell, based on its size. The creature lands prone unless it avoids taking damage from the fall. When an object falls on a creature (or another object), both take this damage."
         },
         {
           "type": "h4",
@@ -1199,7 +1199,7 @@
         },
         {
           "type": "p",
-          "html": "Combat in the Promethium System is designed to be tactical, thrilling, and deeply engaging, drawing on the intense and dynamic battles of the cultivation tradition that shapes Radiant Age. Here, every action counts, and your choices will shape the outcome of every encounter."
+          "html": "Combat in the Promethium System is designed to be tactical, thrilling, and deeply engaging, drawing on the intense and dynamic battles of the cultivation tradition that shapes Realms of Ouroboros. Here, every action counts, and your choices will shape the outcome of every encounter."
         },
         {
           "type": "p",
@@ -2045,7 +2045,7 @@
         },
         {
           "type": "p",
-          "html": "All attacks, spells, and effects in Radiant Age fall into one of several elemental or kinetic types. Understanding these properties can be crucial for exploiting enemy weaknesses or bolstering your own defenses. Damage types for weapons and attacks come into play when protection functions better or worse against specific types of attacks."
+          "html": "All attacks, spells, and effects in Realms of Ouroboros fall into one of several elemental or kinetic types. Understanding these properties can be crucial for exploiting enemy weaknesses or bolstering your own defenses. Damage types for weapons and attacks come into play when protection functions better or worse against specific types of attacks."
         },
         {
           "type": "p",
@@ -2592,11 +2592,11 @@
       "blocks": [
         {
           "type": "p",
-          "html": "To create a character for Radiant Age is to choose how you will participate in the long age of cultivated power. Every hero of this world stands on the same foundation — heritage, history, the cultivation of one or more inner engines — and from that foundation grows the kind of person who could change a city, an empire, or the shape of the unseen world. The character creation process gives you the chance to design that person with intention, from their inner architecture outward."
+          "html": "To create a character for Realms of Ouroboros is to choose how you will participate in the long age of cultivated power. Every hero of this world stands on the same foundation — heritage, history, the cultivation of one or more inner engines — and from that foundation grows the kind of person who could change a city, an empire, or the shape of the unseen world. The character creation process gives you the chance to design that person with intention, from their inner architecture outward."
         },
         {
           "type": "p",
-          "html": "Before you begin rolling ability scores or selecting skills, think of the type of character you want to create. Are you the disciplined Armsman whose Aura ignites with each breath? The scholar Mage whose heart has become a library of inscribed Circles? The survivalist Rogue whose Edge Dice mark the sharpened instinct of someone who has lived through things they probably should not have? The Spiritualist whose Mysteries open doors that other practitioners do not even know are doors? The personality of your character is what will set them apart. Radiant Age allows you to deeply customize every aspect of your hero — who they are, and who they will become."
+          "html": "Before you begin rolling ability scores or selecting skills, think of the type of character you want to create. Are you the disciplined Armsman whose Aura ignites with each breath? The scholar Mage whose heart has become a library of inscribed Circles? The survivalist Rogue whose Edge Dice mark the sharpened instinct of someone who has lived through things they probably should not have? The Spiritualist whose Mysteries open doors that other practitioners do not even know are doors? The personality of your character is what will set them apart. Realms of Ouroboros allows you to deeply customize every aspect of your hero — who they are, and who they will become."
         },
         {
           "type": "h2",
@@ -2684,7 +2684,7 @@
         },
         {
           "type": "p",
-          "html": "<strong>Cultivation Engines. </strong>Most characters in Radiant Age cultivate one or more engines that produce magical effects: Aura Stars, Mana Circles, Edge Dice, Mysteries, Vyana, or Chalices. Each engine is granted by class progression and scales characters across the Ordinary, Heroic, Epic, and Legendary tiers. See Chapter Seven for class details."
+          "html": "<strong>Cultivation Engines. </strong>Most characters in Realms of Ouroboros cultivate one or more engines that produce magical effects: Aura Stars, Mana Circles, Edge Dice, Mysteries, Vyana, or Chalices. Each engine is granted by class progression and scales characters across the Ordinary, Heroic, Epic, and Legendary tiers. See Chapter Seven for class details."
         },
         {
           "type": "p",
@@ -2712,7 +2712,7 @@
         },
         {
           "type": "p",
-          "html": "Before you roll any dice or decide on heritage, history, or class, it&#x27;s essential for you and the GM to have a session-zero conversation. Radiant Age is a world of cultivated power, ancient sects, divine and forbidden currents, and the long work of becoming more than you were born to be. The kind of hero you create — and the kind of campaign your party will run — should be agreed upon collaboratively."
+          "html": "Before you roll any dice or decide on heritage, history, or class, it&#x27;s essential for you and the GM to have a session-zero conversation. Realms of Ouroboros is a world of cultivated power, ancient sects, divine and forbidden currents, and the long work of becoming more than you were born to be. The kind of hero you create — and the kind of campaign your party will run — should be agreed upon collaboratively."
         },
         {
           "type": "p",
@@ -2720,7 +2720,7 @@
         },
         {
           "type": "p",
-          "html": "The GM should also set clear expectations for behavior, engagement, and the kinds of content the table will and will not include. Radiant Age can run dark — corruption, sacrifice, divine punishment, and lasting consequence are all in the system&#x27;s design — and the table should agree on where the lines are before play begins. This ensures a cooperative, respectful environment for all participants."
+          "html": "The GM should also set clear expectations for behavior, engagement, and the kinds of content the table will and will not include. Realms of Ouroboros can run dark — corruption, sacrifice, divine punishment, and lasting consequence are all in the system&#x27;s design — and the table should agree on where the lines are before play begins. This ensures a cooperative, respectful environment for all participants."
         },
         {
           "type": "h2",
@@ -2780,7 +2780,7 @@
         },
         {
           "type": "p",
-          "html": "Radiant Age recognizes fifteen heritages across five families — Men, Ceith, Dwerin, Beastrals, and Exotic — and sixteen histories spanning the full breadth of mortal experience. Each is detailed in Chapter Six. The choices you make here shape both the mechanical and narrative texture of your character."
+          "html": "Realms of Ouroboros recognizes fifteen heritages across five families — Men, Ceith, Dwerin, Beastrals, and Exotic — and sixteen histories spanning the full breadth of mortal experience. Each is detailed in Chapter Six. The choices you make here shape both the mechanical and narrative texture of your character."
         },
         {
           "type": "h3",
@@ -2808,7 +2808,7 @@
         },
         {
           "type": "p",
-          "html": "The sixteen histories of Radiant Age are: Acolyte, Artisan, Charlatan, Criminal, Entertainer, Farmer, Guard, Guide, Hermit, Merchant, Noble, Sage, Sailor, Scribe, Soldier, and Wayfarer. Each is detailed in Chapter Six. Your History determines both your starting skill kit and the narrative seed from which your adventuring career emerges."
+          "html": "The sixteen histories of Realms of Ouroboros are: Acolyte, Artisan, Charlatan, Criminal, Entertainer, Farmer, Guard, Guide, Hermit, Merchant, Noble, Sage, Sailor, Scribe, Soldier, and Wayfarer. Each is detailed in Chapter Six. Your History determines both your starting skill kit and the narrative seed from which your adventuring career emerges."
         },
         {
           "type": "h2",
@@ -2816,11 +2816,11 @@
         },
         {
           "type": "p",
-          "html": "Radiant Age features four Ordinary Classes — the broad starting paths for any cultivator. Each grants access to one cultivation engine and a 17-talent Elite Tree that develops that engine across five ranks. Your class also grants a Foundation Talent (a permanent resource scaling) and two starting Novice skills."
+          "html": "Realms of Ouroboros features four Ordinary Classes — the broad starting paths for any cultivator. Each grants access to one cultivation engine and a 17-talent Elite Tree that develops that engine across five ranks. Your class also grants a Foundation Talent (a permanent resource scaling) and two starting Novice skills."
         },
         {
           "type": "p",
-          "html": "Choose carefully — your class shapes your cultivation engine, your starting Mana and Vigor, your role in combat, and the Heroic, Epic, and Legendary classes you may pursue later. While Radiant Age uses class-agnostic Heroic-tier prerequisites (any character meeting the requirements may take any Heroic class), your Ordinary class establishes the foundation from which all later cultivation grows."
+          "html": "Choose carefully — your class shapes your cultivation engine, your starting Mana and Vigor, your role in combat, and the Heroic, Epic, and Legendary classes you may pursue later. While Realms of Ouroboros uses class-agnostic Heroic-tier prerequisites (any character meeting the requirements may take any Heroic class), your Ordinary class establishes the foundation from which all later cultivation grows."
         },
         {
           "type": "table",
@@ -2981,7 +2981,7 @@
         },
         {
           "type": "p",
-          "html": "Your proper noun — how you are addressed and referred to. Is it a birth name? A sect name given at apprenticeship? A title earned during formative years? A name your enemies gave you that you have decided to keep? Perhaps you do not know your birth name and only carry a clue to your origins which has become how the world addresses you. The choice is yours, but remember — make it memorable, distinctive, and appropriate to the world and story for your character. Names in Radiant Age vary by heritage and region; see Chapter Six for naming conventions."
+          "html": "Your proper noun — how you are addressed and referred to. Is it a birth name? A sect name given at apprenticeship? A title earned during formative years? A name your enemies gave you that you have decided to keep? Perhaps you do not know your birth name and only carry a clue to your origins which has become how the world addresses you. The choice is yours, but remember — make it memorable, distinctive, and appropriate to the world and story for your character. Names in Realms of Ouroboros vary by heritage and region; see Chapter Six for naming conventions."
         },
         {
           "type": "h3",
@@ -3106,7 +3106,7 @@
         },
         {
           "type": "p",
-          "html": "Your character&#x27;s sex, gender identity, and orientation have no mechanical bearing on the Radiant Age system. They may, however, carry significant social and cultural weight depending on the region and culture your character inhabits."
+          "html": "Your character&#x27;s sex, gender identity, and orientation have no mechanical bearing on the Realms of Ouroboros system. They may, however, carry significant social and cultural weight depending on the region and culture your character inhabits."
         },
         {
           "type": "p",
@@ -3174,7 +3174,7 @@
         },
         {
           "type": "p",
-          "html": "While most Radiant Age campaigns begin at Level 1, some campaigns are designed to start at higher levels — for shorter campaigns aimed at specific narrative scope, for one-shot scenarios with experienced characters, for campaigns picking up after a prior chronicle, or for adult-tier story arcs where the characters are already accomplished cultivators when the game begins. The following guidelines help GMs and players construct characters above Level 1."
+          "html": "While most Realms of Ouroboros campaigns begin at Level 1, some campaigns are designed to start at higher levels — for shorter campaigns aimed at specific narrative scope, for one-shot scenarios with experienced characters, for campaigns picking up after a prior chronicle, or for adult-tier story arcs where the characters are already accomplished cultivators when the game begins. The following guidelines help GMs and players construct characters above Level 1."
         },
         {
           "type": "h3",
@@ -3345,7 +3345,7 @@
       "blocks": [
         {
           "type": "p",
-          "html": "<em>The body lifts, the mind reaches, the soul burns. To be a hero in the Radiant Age is to know the measure of each — and to learn where your measure ends, so you may cultivate past it.</em>"
+          "html": "<em>The body lifts, the mind reaches, the soul burns. To be a hero in the Realms of Ouroboros is to know the measure of each — and to learn where your measure ends, so you may cultivate past it.</em>"
         },
         {
           "type": "p",
@@ -4026,7 +4026,7 @@
         },
         {
           "type": "p",
-          "html": "Radiant Age is built to be portable. Each heritage is presented with deliberately broad flavor — a silhouette, a biology, a temperament — so that any group can drop it into any campaign: a high-courtly fantasy of duelists and arcanists, a grim sword-and-sanity mire, a wandering pilgrimage through ruined empires, or a cultivation-sect epic of rival schools. A short &quot;At the Table&quot; note on each heritage offers suggestions for how it adapts to different campaign registers."
+          "html": "Realms of Ouroboros is built to be portable. Each heritage is presented with deliberately broad flavor — a silhouette, a biology, a temperament — so that any group can drop it into any campaign: a high-courtly fantasy of duelists and arcanists, a grim sword-and-sanity mire, a wandering pilgrimage through ruined empires, or a cultivation-sect epic of rival schools. A short &quot;At the Table&quot; note on each heritage offers suggestions for how it adapts to different campaign registers."
         },
         {
           "type": "h3",
@@ -4235,7 +4235,7 @@
         },
         {
           "type": "p",
-          "html": "<strong>Tusks and Horns. </strong>Your horns and tusks together count as a natural Unarmed weapon dealing 1d10 Piercing damage on a charge or headbutt, or 1d6 Bludgeoning damage in close combat."
+          "html": "<strong>Tusks and Horns. </strong>Your horns and tusks together count as a natural Unarmed weapon dealing 1d10 Piercing damage on a charge or headbutt, or 1d6 Impact damage in close combat."
         },
         {
           "type": "p",
@@ -9950,7 +9950,7 @@
         },
         {
           "type": "p",
-          "html": "You can keep someone going past their limits. When you use an action to perform first aid on a wounded target, you can neutralize the effects of the Wounded condition for 1d4 turns and restore 1d4 Health."
+          "html": "You can keep someone going past their limits. When you use an action to perform first aid on a wounded target, you can neutralize the effects of the Wounded condition for 1d4 turns and restore 1d4 Durability."
         },
         {
           "type": "h4",
@@ -11913,7 +11913,7 @@
         },
         {
           "type": "p",
-          "html": "Benediction. You or an ally in the area regains 1d4 Durability or Health at the end of your turn."
+          "html": "Benediction. You or an ally in the area regains 1d4 Durability at the end of your turn."
         },
         {
           "type": "p",
@@ -12947,7 +12947,7 @@
         },
         {
           "type": "p",
-          "html": "You can weaponize insight as direct psychic damage. As an Action and 20 Mana, target a creature within 30 feet that you have previously read; the target must Resist (Resolve) VS your Corruption Score or take 4d10 + Corruption BD <strong>Umbral</strong> damage as you turn their own thoughts against them. On a failed Resistance, the target also suffers 1 Challenge to all rolls for 1d4 rounds as they grapple with the residue of the attack. A creature reduced to 0 Health by Lash of Reason does not bleed out — they stop, simply, in the manner of those who have been told something they cannot endure.<em> Increase your Corruption Score by 1d10.</em>"
+          "html": "You can weaponize insight as direct Aetheric damage. As an Action and 20 Mana, target a creature within 30 feet that you have previously read; the target must Resist (Resolve) VS your Corruption Score or take 4d10 + Corruption BD <strong>Umbral</strong> damage as you turn their own thoughts against them. On a failed Resistance, the target also suffers 1 Challenge to all rolls for 1d4 rounds as they grapple with the residue of the attack. A creature reduced to 0 Health by Lash of Reason does not bleed out — they stop, simply, in the manner of those who have been told something they cannot endure.<em> Increase your Corruption Score by 1d10.</em>"
         },
         {
           "type": "h3",
@@ -18786,7 +18786,7 @@
         },
         {
           "type": "p",
-          "html": "Every weapon skill in Radiant Age can be practiced through one of three universal forms: Hard, Soft, and Swift. These are not the names of any particular tradition. They are three answers to the same question every fighter must answer: what happens when two armed combatants meet, and how do you end the meeting in your favor?"
+          "html": "Every weapon skill in Realms of Ouroboros can be practiced through one of three universal forms: Hard, Soft, and Swift. These are not the names of any particular tradition. They are three answers to the same question every fighter must answer: what happens when two armed combatants meet, and how do you end the meeting in your favor?"
         },
         {
           "type": "p",
@@ -21566,7 +21566,7 @@
         },
         {
           "type": "p",
-          "html": "The standard elements of Radiant Age Arcane Arms are Fire, Lightning, and Ice. These are the common arms found in any sorcerous outfitter, dueling school, or wizard&#x27;s tower. Exotic elements exist but are rare, expensive, and frequently restricted to specific schools or sects. The table below summarizes the damage type and signature condition each element imparts. Conditions only apply when triggered by the spell or by an effect such as Elemental Grip; mere damage of a given type does not automatically apply the condition."
+          "html": "The standard elements of Realms of Ouroboros Arcane Arms are Fire, Lightning, and Ice. These are the common arms found in any sorcerous outfitter, dueling school, or wizard&#x27;s tower. Exotic elements exist but are rare, expensive, and frequently restricted to specific schools or sects. The table below summarizes the damage type and signature condition each element imparts. Conditions only apply when triggered by the spell or by an effect such as Elemental Grip; mere damage of a given type does not automatically apply the condition."
         },
         {
           "type": "table",
@@ -23241,7 +23241,7 @@
         },
         {
           "type": "p",
-          "html": "Choose one elemental damage type at the time of casting (Fire, Cold, Lightning, Acid, or any other element with a standard manifestation in your setting). The target takes half damage from that element for the duration. The protection persists through up to three damaging events before reducing to one-quarter, then ending after one more."
+          "html": "Choose one elemental damage type at the time of casting (Fire, Cold, Lightning, Corrosive, or any other element with a standard manifestation in your setting). The target takes half damage from that element for the duration. The protection persists through up to three damaging events before reducing to one-quarter, then ending after one more."
         },
         {
           "type": "p",
@@ -23561,11 +23561,11 @@
         },
         {
           "type": "p",
-          "html": "The Aegis does not address physical damage, Entropic damage, Light damage, Poison, or unusual elemental sources outside the named five. It is the simplest and most reliable elemental defense in the catalog — the spell every working Mage casts before walking into a fight against another caster."
+          "html": "The Aegis does not address Kinetic (physical) damage, Entropic damage, Lucent damage, Toxic damage, or unusual elemental sources outside the named five. It is the simplest and most reliable elemental defense in the catalog — the spell every working Mage casts before walking into a fight against another caster."
         },
         {
           "type": "p",
-          "html": "<em><strong>Mana Circle Scaling. </strong></em><em>At Mana Circle 4+, the protection extends to Force damage. At Mana Circle 6+, also Light and Crystal. At Mana Circle 8+, also Soul and Entropic.</em>"
+          "html": "<em><strong>Mana Circle Scaling. </strong></em><em>At Mana Circle 4+, the protection extends to Lucent and Toxic damage. At Mana Circle 6+, also Corrosive and Crystal. At Mana Circle 8+, also Entropic and Umbral.</em>"
         },
         {
           "type": "p",
@@ -24097,7 +24097,7 @@
         },
         {
           "type": "p",
-          "html": "You create a guardian construct — a hovering bound essence shaped from compressed Mana, roughly the size and silhouette of a small humanoid. The Sentinel obeys your spoken commands and acts on your Initiative count. It has Health equal to 20 + your Soul Score, Speed equal to 30 feet, and may attack with a basic Force strike (1d10 force damage at +1 Bonus Die equal to your Soul Bonus Dice)."
+          "html": "You create a guardian construct — a hovering bound essence shaped from compressed Mana, roughly the size and silhouette of a small humanoid. The Sentinel obeys your spoken commands and acts on your Initiative count. It has Health equal to 20 + your Soul Score, Speed equal to 30 feet, and may attack with a basic Force strike (1d10 Aetheric damage at +1 Bonus Die equal to your Soul Bonus Dice)."
         },
         {
           "type": "p",
@@ -24105,7 +24105,7 @@
         },
         {
           "type": "p",
-          "html": "<em><strong>Mana Circle Scaling. </strong></em><em>Add 5 Health, 5 feet of Speed, and +1d10 Force damage to the Sentinel per Mana Circle. At Mana Circle 5+, the maximum tether distance increases to 120 feet.</em>"
+          "html": "<em><strong>Mana Circle Scaling. </strong></em><em>Add 5 Health, 5 feet of Speed, and +1d10 Aetheric damage to the Sentinel per Mana Circle. At Mana Circle 5+, the maximum tether distance increases to 120 feet.</em>"
         },
         {
           "type": "p",
@@ -24169,11 +24169,11 @@
         },
         {
           "type": "p",
-          "html": "An expanded form of Aegis of Five Forces. The target gains half damage protection against Fire, Lightning, Cold, Sonic, Aetheric, Force, Light, and Crystal damage simultaneously for the duration. The protection also extends to one Resistance check per round of the target&#x27;s choice (the named check is made at 1 Charge regardless of trigger)."
+          "html": "An expanded form of Aegis of Five Forces. The target gains half damage protection against Fire, Lightning, Cold, Sonic, Aetheric, Umbral, Lucent, and Crystal damage simultaneously for the duration. The protection also extends to one Resistance check per round of the target&#x27;s choice (the named check is made at 1 Charge regardless of trigger)."
         },
         {
           "type": "p",
-          "html": "<em><strong>Mana Circle Scaling. </strong></em><em>Add one additional element to the protection roster per 2 Mana Circles (Poison, Acid, Entropic, Soul, and other unusual elements may be added at higher Circles).</em>"
+          "html": "<em><strong>Mana Circle Scaling. </strong></em><em>Add one additional element to the protection roster per 2 Mana Circles (Toxic, Corrosive, Entropic, and other unusual elements may be added at higher Circles).</em>"
         },
         {
           "type": "p",
@@ -24265,11 +24265,11 @@
         },
         {
           "type": "p",
-          "html": "A radial pulse of compressed force erupts outward from your body. All other creatures within 15 feet must succeed Resistance (Strength) VS your casting roll or take 3d8 force damage and be pushed 10 feet directly away from you. Creatures who succeed take half damage and are not pushed. The spell does not discriminate between friend and foe; allies in the radius are affected normally."
+          "html": "A radial pulse of compressed force erupts outward from your body. All other creatures within 15 feet must succeed Resistance (Strength) VS your casting roll or take 3d8 Aetheric damage and be pushed 10 feet directly away from you. Creatures who succeed take half damage and are not pushed. The spell does not discriminate between friend and foe; allies in the radius are affected normally."
         },
         {
           "type": "p",
-          "html": "<em><strong>Mana Circle Scaling. </strong></em><em>Add +1d8 force damage per Mana Circle. At Mana Circle 5+, the radius extends to 20 feet.</em>"
+          "html": "<em><strong>Mana Circle Scaling. </strong></em><em>Add +1d8 Aetheric damage per Mana Circle. At Mana Circle 5+, the radius extends to 20 feet.</em>"
         },
         {
           "type": "p",
@@ -24297,7 +24297,7 @@
         },
         {
           "type": "p",
-          "html": "A directed cone of force fans outward from you. Creatures in the cone must succeed Resistance (Strength) VS your casting roll or be pushed 15 feet directly away from you. Targets who collide with terrain or other creatures take 2d6 force damage and fall prone; targets who reach open ground are pushed but suffer no further effect. Unlike Pulse, Repulse can be aimed away from allies."
+          "html": "A directed cone of force fans outward from you. Creatures in the cone must succeed Resistance (Strength) VS your casting roll or be pushed 15 feet directly away from you. Targets who collide with terrain or other creatures take 2d6 Aetheric damage and fall prone; targets who reach open ground are pushed but suffer no further effect. Unlike Pulse, Repulse can be aimed away from allies."
         },
         {
           "type": "p",
@@ -25049,11 +25049,11 @@
         },
         {
           "type": "p",
-          "html": "You release a concussive pulse of pure compressed force in a 15-foot radius around yourself. All other creatures in the area must succeed Resistance (Speed) VS your casting roll or take 3d10 force damage and be knocked back 10 feet. Creatures who succeed take half damage and are not knocked back. Note that this spell deals force damage rather than fire damage — it is the working that crushes rather than burns."
+          "html": "You release a concussive pulse of pure compressed force in a 15-foot radius around yourself. All other creatures in the area must succeed Resistance (Speed) VS your casting roll or take 3d10 Aetheric damage and be knocked back 10 feet. Creatures who succeed take half damage and are not knocked back. Note that this spell deals Aetheric damage rather than fire damage — it is the working that crushes rather than burns."
         },
         {
           "type": "p",
-          "html": "<em><strong>Mana Circle Scaling. </strong></em><em>Add +1d10 force damage and 5 feet of knockback per 2 Mana Circles.</em>"
+          "html": "<em><strong>Mana Circle Scaling. </strong></em><em>Add +1d10 Aetheric damage and 5 feet of knockback per 2 Mana Circles.</em>"
         },
         {
           "type": "h3",
@@ -25393,7 +25393,7 @@
         },
         {
           "type": "p",
-          "html": "You command a section of ground to convulse. Choose an area 30 feet across within range. All creatures in the area must succeed Resistance (Speed) VS your casting roll or fall prone and take 2d8 bludgeoning damage. Creatures who succeed remain standing but suffer 1 Challenge on attack rolls until the end of their next turn from the unstable footing."
+          "html": "You command a section of ground to convulse. Choose an area 30 feet across within range. All creatures in the area must succeed Resistance (Speed) VS your casting roll or fall prone and take 2d8 Impact damage. Creatures who succeed remain standing but suffer 1 Challenge on attack rolls until the end of their next turn from the unstable footing."
         },
         {
           "type": "p",
@@ -25809,7 +25809,7 @@
         },
         {
           "type": "p",
-          "html": "You attempt to sever a target&#x27;s connection to their own life-force. The target makes Resistance (Soul) VS your casting roll; on failure, they suffer 6d10 Soul damage (an unusual damage type that ignores most armor and resistance, treating only Soul-based or Aetheric-based protection as effective)."
+          "html": "You attempt to sever a target&#x27;s connection to their own life-force. The target makes Resistance (Soul) VS your casting roll; on failure, they suffer 6d10 Aetheric damage. This severing strikes the spirit directly: it ignores most armor and ordinary resistance, and only Aetheric-based protection reduces it."
         },
         {
           "type": "p",
@@ -25817,7 +25817,7 @@
         },
         {
           "type": "p",
-          "html": "<em><strong>Mana Circle Scaling. </strong></em><em>Add +1d10 Soul damage per Mana Circle. At Mana Circle 5+, the target&#x27;s Resistance is at 1 Challenge.</em>"
+          "html": "<em><strong>Mana Circle Scaling. </strong></em><em>Add +1d10 Aetheric damage per Mana Circle. At Mana Circle 5+, the target&#x27;s Resistance is at 1 Challenge.</em>"
         },
         {
           "type": "p",
@@ -28853,7 +28853,7 @@
         },
         {
           "type": "p",
-          "html": "Mana:20<br>A crescendo detonates in psychic space. Enemies within 20 ft must pass Resistance (Soul) or suffer 2d6 psychic damage and become Dazed."
+          "html": "Mana:20<br>A crescendo detonates in psychic space. Enemies within 20 ft must pass Resistance (Soul) or suffer 2d6 Aetheric damage and become Dazed."
         },
         {
           "type": "h3",
@@ -28925,7 +28925,7 @@
         },
         {
           "type": "p",
-          "html": "Mana:12<br>You tell a tale that plays on guilt. One enemy takes 3d6 psychic damage and cannot willingly attack until the start of your next turn (Resistance applies)."
+          "html": "Mana:12<br>You tell a tale that plays on guilt. One enemy takes 3d6 Aetheric damage and cannot willingly attack until the start of your next turn (Resistance applies)."
         },
         {
           "type": "h4",
@@ -29637,11 +29637,11 @@
         },
         {
           "type": "p",
-          "html": "<strong>Major Icebound Blade</strong><br>VS: 45<br>Mana Cost: 150<br>Circles: Major Force, Frost Concept, On Hit Structure<br>Your weapon deals <strong>1d10 Frost damage</strong> and slows enemies by half."
+          "html": "<strong>Major Icebound Blade</strong><br>VS: 45<br>Mana Cost: 150<br>Circles: Major Force, Frost Concept, On Hit Structure<br>Your weapon deals <strong>1d10 Cold damage</strong> and slows enemies by half."
         },
         {
           "type": "p",
-          "html": "<strong>Major Sunfire Beacon</strong><br>VS: 45<br>Mana Cost: 150<br>Circles: Major Force, Sun Concept, Activation Structure<br>Spend 1 action to emit a solar flare. Undead and Shadow-aligned foes take <strong>2d10 Light damage</strong>."
+          "html": "<strong>Major Sunfire Beacon</strong><br>VS: 45<br>Mana Cost: 150<br>Circles: Major Force, Sun Concept, Activation Structure<br>Spend 1 action to emit a solar flare. Undead and Shadow-aligned foes take <strong>2d10 Lucent damage</strong>."
         },
         {
           "type": "h4",
@@ -29657,7 +29657,7 @@
         },
         {
           "type": "p",
-          "html": "<strong>Greater Frost Armor</strong><br>VS: 65<br>Mana Cost: 225<br>Circles: Greater Force, Frost Concept (Novice), Aura Structure (Expert)<br>A constant aura of cold hardens your defenses. Gain <strong>+3 Armor Rank</strong>, and enemies that strike you in melee take <strong>2d10 Frost damage</strong>."
+          "html": "<strong>Greater Frost Armor</strong><br>VS: 65<br>Mana Cost: 225<br>Circles: Greater Force, Frost Concept (Novice), Aura Structure (Expert)<br>A constant aura of cold hardens your defenses. Gain <strong>+3 Armor Rank</strong>, and enemies that strike you in melee take <strong>2d10 Cold damage</strong>."
         },
         {
           "type": "p",
@@ -29665,7 +29665,7 @@
         },
         {
           "type": "p",
-          "html": "<strong>Greater Bloodflare Edge</strong><br>VS: 65<br>Mana Cost: 225<br>Circles: Greater Force, Poison Concept (Expert), On Hit Structure (Novice)<br>Your weapon seeps venomous power. On a hit, deal <strong>3d8 Poison damage</strong>, and the target takes <strong>1d10 ongoing</strong> Poison damage for 3 turns."
+          "html": "<strong>Greater Bloodflare Edge</strong><br>VS: 65<br>Mana Cost: 225<br>Circles: Greater Force, Poison Concept (Expert), On Hit Structure (Novice)<br>Your weapon seeps venomous power. On a hit, deal <strong>3d8 Toxic damage</strong>, and the target takes <strong>1d10 ongoing</strong> Toxic damage for 3 turns."
         },
         {
           "type": "p",
@@ -29673,7 +29673,7 @@
         },
         {
           "type": "p",
-          "html": "<strong>Greater Solar Flare</strong><br>VS: 65<br>Mana Cost: 225<br>Circles: Greater Force, Sun Concept (Expert), Activation Structure (Novice)<br>Spend 1 action to unleash a burst of holy fire. All creatures in 15 feet take <strong>3d10 Light damage</strong>; Undead must succeed a Resistance check VS your roll or become <strong>Blinded</strong>."
+          "html": "<strong>Greater Solar Flare</strong><br>VS: 65<br>Mana Cost: 225<br>Circles: Greater Force, Sun Concept (Expert), Activation Structure (Novice)<br>Spend 1 action to unleash a burst of holy fire. All creatures in 15 feet take <strong>3d10 Lucent damage</strong>; Undead must succeed a Resistance check VS your roll or become <strong>Blinded</strong>."
         },
         {
           "type": "p",
@@ -29701,7 +29701,7 @@
         },
         {
           "type": "p",
-          "html": "<strong>Greater Frostbite Edge</strong><br>VS: 65<br>Mana Cost: 225<br>Circles: Greater Force, Frost Concept (Novice), On Hit Structure (Expert)<br>Your weapon freezes on impact, dealing <strong>2d10 Frost damage</strong> and slowing targets by <strong>10 Speed</strong> for 2 turns."
+          "html": "<strong>Greater Frostbite Edge</strong><br>VS: 65<br>Mana Cost: 225<br>Circles: Greater Force, Frost Concept (Novice), On Hit Structure (Expert)<br>Your weapon freezes on impact, dealing <strong>2d10 Cold damage</strong> and slowing targets by <strong>10 Speed</strong> for 2 turns."
         },
         {
           "type": "p",
@@ -29721,11 +29721,11 @@
         },
         {
           "type": "p",
-          "html": "<strong>Greater Venomstorm</strong><br>VS: 65<br>Mana Cost: 225<br>Circles: Greater Force, Poison Concept (Expert), Aura Structure (Novice)<br>A toxic miasma surrounds you in 5 feet. Foes entering the area take <strong>3d8 Poison damage</strong> and suffer 1 Challenge to all rolls until leaving the area."
+          "html": "<strong>Greater Venomstorm</strong><br>VS: 65<br>Mana Cost: 225<br>Circles: Greater Force, Poison Concept (Expert), Aura Structure (Novice)<br>A toxic miasma surrounds you in 5 feet. Foes entering the area take <strong>3d8 Toxic damage</strong> and suffer 1 Challenge to all rolls until leaving the area."
         },
         {
           "type": "p",
-          "html": "<strong>Greater Solar Rebirth</strong><br>VS: 65<br>Mana Cost: 275<br>Circles: Greater Force, Sun Concept (Expert), Triggered Effect Structure (Master)<br>When you are reduced to 0 Health, a radiant burst heals you for <strong>3d10 Health</strong> and deals <strong>3d10 Light damage</strong> to all enemies within 15 feet. This effect triggers once per day."
+          "html": "<strong>Greater Solar Rebirth</strong><br>VS: 65<br>Mana Cost: 275<br>Circles: Greater Force, Sun Concept (Expert), Triggered Effect Structure (Master)<br>When you are reduced to 0 Health, a radiant burst heals you for <strong>3d10 Health</strong> and deals <strong>3d10 Lucent damage</strong> to all enemies within 15 feet. This effect triggers once per day."
         },
         {
           "type": "h4",
@@ -29741,7 +29741,7 @@
         },
         {
           "type": "p",
-          "html": "<strong>Mythic Radiant Crown</strong><br>VS: 80<br>Mana Cost: 350<br>Circles: Mythic Force, Divinity Concept (Expert), Aura Structure (Expert)<br>You radiate divine brilliance in a 15-foot radius. Allies within gain <strong>+2 Bonus Dice</strong> to all Resistance rolls; Undead and Corrupted creatures take <strong>3d10 Light damage</strong> at the start of their turn."
+          "html": "<strong>Mythic Radiant Crown</strong><br>VS: 80<br>Mana Cost: 350<br>Circles: Mythic Force, Divinity Concept (Expert), Aura Structure (Expert)<br>You radiate divine brilliance in a 15-foot radius. Allies within gain <strong>+2 Bonus Dice</strong> to all Resistance rolls; Undead and Corrupted creatures take <strong>3d10 Lucent damage</strong> at the start of their turn."
         },
         {
           "type": "p",
@@ -29749,11 +29749,11 @@
         },
         {
           "type": "p",
-          "html": "<strong>Mythic Frost Requiem</strong><br>VS: 80<br>Mana Cost: 350<br>Circles: Mythic Force, Frost Concept (Novice), Aura Structure (Expert)<br>You emit an aura of freezing cold. All enemies within 10 feet take <strong>2d10 Frost damage</strong> per turn and must succeed a Resistance check VS 35 or become <strong>Slowed</strong> for 3 turns."
+          "html": "<strong>Mythic Frost Requiem</strong><br>VS: 80<br>Mana Cost: 350<br>Circles: Mythic Force, Frost Concept (Novice), Aura Structure (Expert)<br>You emit an aura of freezing cold. All enemies within 10 feet take <strong>2d10 Cold damage</strong> per turn and must succeed a Resistance check VS 35 or become <strong>Slowed</strong> for 3 turns."
         },
         {
           "type": "p",
-          "html": "<strong>Greater Venom Heart</strong><br>VS: 70<br>Mana Cost: 300<br>Circles: Greater Force, Poison Concept (Expert), Reaction Structure (Expert)<br>When you are struck by a melee attack, you may take a Reaction to infect your attacker, dealing <strong>3d10 Poison damage</strong> instantly and <strong>1d10</strong> per turn for 3 turns."
+          "html": "<strong>Greater Venom Heart</strong><br>VS: 70<br>Mana Cost: 300<br>Circles: Greater Force, Poison Concept (Expert), Reaction Structure (Expert)<br>When you are struck by a melee attack, you may take a Reaction to infect your attacker, dealing <strong>3d10 Toxic damage</strong> instantly and <strong>1d10</strong> per turn for 3 turns."
         },
         {
           "type": "p",
@@ -29765,7 +29765,7 @@
         },
         {
           "type": "p",
-          "html": "<strong>Mythic Mindspike</strong><br>VS: 80<br>Mana Cost: 350<br>Circles: Mythic Force, Mind Concept (Master), On Hit Structure (Expert)<br>When you strike a target, their mind reels in pain. Deal <strong>5d10 Psychic damage</strong>, and the target loses <strong>1 Bonus Die</strong> on all rolls for 3 turns."
+          "html": "<strong>Mythic Mindspike</strong><br>VS: 80<br>Mana Cost: 350<br>Circles: Mythic Force, Mind Concept (Master), On Hit Structure (Expert)<br>When you strike a target, their mind reels in pain. Deal <strong>5d10 Aetheric damage</strong>, and the target loses <strong>1 Bonus Die</strong> on all rolls for 3 turns."
         },
         {
           "type": "p",
@@ -29777,7 +29777,7 @@
         },
         {
           "type": "p",
-          "html": "<strong>Mythic Deathsong</strong><br>VS: 80<br>Mana Cost: 375<br>Circles: Mythic Force, Mortality Concept (Master), Aura Structure (Expert)<br>A chilling aura of necrotic resonance surrounds you. Enemies within 10 feet take <strong>5d10 Necrotic damage</strong> each turn. Undead within range fall under your command unless they succeed a Resistance check VS 40."
+          "html": "<strong>Mythic Deathsong</strong><br>VS: 80<br>Mana Cost: 375<br>Circles: Mythic Force, Mortality Concept (Master), Aura Structure (Expert)<br>A chilling aura of necrotic resonance surrounds you. Enemies within 10 feet take <strong>5d10 Umbral damage</strong> each turn. Undead within range fall under your command unless they succeed a Resistance check VS 40."
         },
         {
           "type": "p",
@@ -29789,7 +29789,7 @@
         },
         {
           "type": "p",
-          "html": "<strong>Greater Earthbreaker</strong><br>VS: 70<br>Mana Cost: 300<br>Circles: Greater Force, Power Concept (Novice), On Hit Structure (Expert)<br>Your strikes crack the ground. On hit, deal <strong>3d10 Bludgeoning damage</strong>, creating a shockwave that knocks nearby foes <strong>Prone</strong> (VS 30)."
+          "html": "<strong>Greater Earthbreaker</strong><br>VS: 70<br>Mana Cost: 300<br>Circles: Greater Force, Power Concept (Novice), On Hit Structure (Expert)<br>Your strikes crack the ground. On hit, deal <strong>3d10 Impact damage</strong>, creating a shockwave that knocks nearby foes <strong>Prone</strong> (VS 30)."
         },
         {
           "type": "p",
@@ -29853,11 +29853,11 @@
         },
         {
           "type": "p",
-          "html": "<strong>Forbidden Endsong</strong><br>VS: 110<br>Mana Cost: 850<br>Circles: Forbidden Force, Mortality Concept (Master), Aura Structure (Expert)<br>You exude a necrotic pulse that extinguishes life. Living creatures within 15 feet take <strong>5d10 Necrotic damage</strong> per turn; if they perish, their souls cannot be restored except by divine intervention."
+          "html": "<strong>Forbidden Endsong</strong><br>VS: 110<br>Mana Cost: 850<br>Circles: Forbidden Force, Mortality Concept (Master), Aura Structure (Expert)<br>You exude a necrotic pulse that extinguishes life. Living creatures within 15 feet take <strong>5d10 Umbral damage</strong> per turn; if they perish, their souls cannot be restored except by divine intervention."
         },
         {
           "type": "p",
-          "html": "<strong>Mythic Starheart</strong><br>VS: 95<br>Mana Cost: 725<br>Circles: Mythic Force, Sun Concept (Expert), Passive Structure (Master)<br>You become a conduit of stellar energy. You are immune to Fire and Light damage and can <strong>expend 50 Mana</strong> to unleash a radiant nova dealing <strong>5d10 Light damage</strong> in a 30-foot radius."
+          "html": "<strong>Mythic Starheart</strong><br>VS: 95<br>Mana Cost: 725<br>Circles: Mythic Force, Sun Concept (Expert), Passive Structure (Master)<br>You become a conduit of stellar energy. You are immune to Fire and Lucent damage and can <strong>expend 50 Mana</strong> to unleash a radiant nova dealing <strong>5d10 Lucent damage</strong> in a 30-foot radius."
         },
         {
           "type": "p",
@@ -30028,11 +30028,11 @@
       "blocks": [
         {
           "type": "p",
-          "html": "<em>Every cultivator&#x27;s path is long. The First Star is the work of years; the Third is the work of a decade; the cultivation of a true Mystery may take a lifetime of patient attention to small currents others have never noticed. Advancement in Radiant Age is the slow, recorded accumulation of who you have become — and the world remembers.</em>"
+          "html": "<em>Every cultivator&#x27;s path is long. The First Star is the work of years; the Third is the work of a decade; the cultivation of a true Mystery may take a lifetime of patient attention to small currents others have never noticed. Advancement in Realms of Ouroboros is the slow, recorded accumulation of who you have become — and the world remembers.</em>"
         },
         {
           "type": "p",
-          "html": "Throughout your adventures, you advance in several ways: gaining experience points, learning new Disciplines, gathering treasure and equipment, expanding your cultivated engines, and accomplishing the Titles and Deeds that mark your legend. Some growth is incremental — the small skill-point gain at each level. Some is transformative — the engine grant that opens a new tier of capability, the Deed that brings a lasting Perk, the multiclass commitment that opens a second path. This chapter explains all of it, including the rules for combining classes, the framework for Titles and Deeds, and the specific honors and accomplishments that mark cultivators across Radiant Age."
+          "html": "Throughout your adventures, you advance in several ways: gaining experience points, learning new Disciplines, gathering treasure and equipment, expanding your cultivated engines, and accomplishing the Titles and Deeds that mark your legend. Some growth is incremental — the small skill-point gain at each level. Some is transformative — the engine grant that opens a new tier of capability, the Deed that brings a lasting Perk, the multiclass commitment that opens a second path. This chapter explains all of it, including the rules for combining classes, the framework for Titles and Deeds, and the specific honors and accomplishments that mark cultivators across Realms of Ouroboros."
         },
         {
           "type": "h2",
@@ -30040,7 +30040,7 @@
         },
         {
           "type": "p",
-          "html": "You gain Experience Points (EXP) by overcoming challenges, completing objectives, and engaging meaningfully with the world of Radiant Age. EXP accumulates and is converted into Levels at the thresholds shown in the table below. Each Level grants you skill points, resource increases, and the opportunity to deepen your cultivated engines."
+          "html": "You gain Experience Points (EXP) by overcoming challenges, completing objectives, and engaging meaningfully with the world of Realms of Ouroboros. EXP accumulates and is converted into Levels at the thresholds shown in the table below. Each Level grants you skill points, resource increases, and the opportunity to deepen your cultivated engines."
         },
         {
           "type": "table",
@@ -30296,7 +30296,7 @@
         },
         {
           "type": "p",
-          "html": "Radiant Age supports the deliberate cultivation of more than one class over the course of your career. Where many cultivators commit to a single Ordinary class and follow it into one Heroic specialty, others choose to build broader: an Armsman who has also studied Mage discipline; a Mage who has cultivated a Mystery; a Rogue whose Edge has been refined by Spiritualist work into something stranger and more specific. Multiclassing is the formal recognition of these broader paths, and the rules below explain how characters acquire and develop a second (or third) class."
+          "html": "Realms of Ouroboros supports the deliberate cultivation of more than one class over the course of your career. Where many cultivators commit to a single Ordinary class and follow it into one Heroic specialty, others choose to build broader: an Armsman who has also studied Mage discipline; a Mage who has cultivated a Mystery; a Rogue whose Edge has been refined by Spiritualist work into something stranger and more specific. Multiclassing is the formal recognition of these broader paths, and the rules below explain how characters acquire and develop a second (or third) class."
         },
         {
           "type": "h3",
@@ -30439,7 +30439,7 @@
         },
         {
           "type": "p",
-          "html": "These basic Titles are found among the heroes and villains of Radiant Age. While not everyone earns a Title, those who do gain some renown. The list is not exhaustive — GMs are encouraged to create new Titles appropriate to their campaigns and characters."
+          "html": "These basic Titles are found among the heroes and villains of Realms of Ouroboros. While not everyone earns a Title, those who do gain some renown. The list is not exhaustive — GMs are encouraged to create new Titles appropriate to their campaigns and characters."
         },
         {
           "type": "h3",
@@ -32394,7 +32394,7 @@
       "blocks": [
         {
           "type": "p",
-          "html": "In Radiant Age, the Game Master must steward a luminous world of cultivated power and earned legend, where heroes becoming sword saints, archmages, and sovereigns. You are the narrator, the storyteller, and the director. Yours is the most rewarding and challenging of roles to play in the game. You will set the stage, describe the world, and control the outcome of the events as they transpire. This section will discuss taking on the role of GM, creating the universe and adventures you and your party will explore, and mediating the rules of the game."
+          "html": "In Realms of Ouroboros, the Game Master must steward a luminous world of cultivated power and earned legend, where heroes becoming sword saints, archmages, and sovereigns. You are the narrator, the storyteller, and the director. Yours is the most rewarding and challenging of roles to play in the game. You will set the stage, describe the world, and control the outcome of the events as they transpire. This section will discuss taking on the role of GM, creating the universe and adventures you and your party will explore, and mediating the rules of the game."
         },
         {
           "type": "h2",
@@ -32418,7 +32418,7 @@
         },
         {
           "type": "p",
-          "html": "Radiant Age is a game of cultivated power and earned identity, owing as much to console JRPGs and progression manhwa as to classic fantasy. Lean into that ancestry. When a Warrior unfurls an Aura Core, let onlookers gasp; when a Mage’s heart-Circle ignites, let nearby candles bend toward it. Cultivation should be visible, performative, and dramatic, because the world <em>notices</em> heroes becoming something more. Class titles are not labels in Radiant Age; they are stations. A Knight is recognized at the gates. A Sword Saint is sung about in distant taverns. A Spirit Sovereign is feared in three kingdoms."
+          "html": "Realms of Ouroboros is a game of cultivated power and earned identity, owing as much to console JRPGs and progression manhwa as to classic fantasy. Lean into that ancestry. When a Warrior unfurls an Aura Core, let onlookers gasp; when a Mage’s heart-Circle ignites, let nearby candles bend toward it. Cultivation should be visible, performative, and dramatic, because the world <em>notices</em> heroes becoming something more. Class titles are not labels in Realms of Ouroboros; they are stations. A Knight is recognized at the gates. A Sword Saint is sung about in distant taverns. A Spirit Sovereign is feared in three kingdoms."
         },
         {
           "type": "p",
@@ -32659,7 +32659,7 @@
         },
         {
           "type": "p",
-          "html": "This approach assumes a fast heroic growth curve. Radiant Age is a game about characters rising from ordinary adventurers into legendary figures. If you imagine a campaign played once per week for a full year, approximately fifty-two sessions, the characters should likely end that year somewhere between level 50 and level 60. This means advancement is expected to be steady, visible, and dramatic. Characters should regularly gain new talents, improve their skills, awaken new powers, and move toward higher heroic identities."
+          "html": "This approach assumes a fast heroic growth curve. Realms of Ouroboros is a game about characters rising from ordinary adventurers into legendary figures. If you imagine a campaign played once per week for a full year, approximately fifty-two sessions, the characters should likely end that year somewhere between level 50 and level 60. This means advancement is expected to be steady, visible, and dramatic. Characters should regularly gain new talents, improve their skills, awaken new powers, and move toward higher heroic identities."
         },
         {
           "type": "p",
@@ -32852,7 +32852,7 @@
         },
         {
           "type": "p",
-          "html": "Radiant Age is a long ascent. Characters begin as apprentices in broad Ordinary Classes, sharpen into iconic Heroic identities, deepen into doctrinal Epic specializations, and may one day rise into singular Legendary stations remembered by the world. A campaign that runs the full ladder will feel like three different games stacked together: a coming-of-age, a saga of named champions, and a myth told in the heavens."
+          "html": "Realms of Ouroboros is a long ascent. Characters begin as apprentices in broad Ordinary Classes, sharpen into iconic Heroic identities, deepen into doctrinal Epic specializations, and may one day rise into singular Legendary stations remembered by the world. A campaign that runs the full ladder will feel like three different games stacked together: a coming-of-age, a saga of named champions, and a myth told in the heavens."
         },
         {
           "type": "p",
