@@ -28697,7 +28697,7 @@
         },
         {
           "type": "p",
-          "html": "<strong>Inspiring Verse</strong> <em>(8 Mana)</em>: Choose one ally; until your next turn they gain advantage on Initiative and may reroll Speed checks."
+          "html": "<strong>Inspiring Verse</strong> <em>(8 Mana)</em>: Choose one ally that can see and hear you within 60 feet. Until the end of your next turn they receive 1 Charge to all Speed Bonus Dice."
         },
         {
           "type": "h4",
